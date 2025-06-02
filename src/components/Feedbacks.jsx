@@ -1,12 +1,4 @@
-import React from 'react'
-
-const Feedbacks = () => {
-  return (
-    <div>Feedbacks</div>
-  )
-}
-
-export default Feedbacksimport React from "react";
+import React from "react";
 import { motion } from "framer-motion";
 
 import { styles } from "../style";
